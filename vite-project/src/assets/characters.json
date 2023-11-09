@@ -1,0 +1,41 @@
+[{
+	"name":"Mario Bros",
+	"description":"Un petit plombier moustachu",
+	"imageUrl":"/mario.webp"
+},
+{
+	"name":"V",
+	"description":"La cybernétique au service de l'humain",
+	"imageUrl":"/v.webp"
+},
+{
+	"name":"Pikachu",
+	"description":"Est-ce vraiment nécessaire de vous le présenter ?",
+	"imageUrl":"/pikachu.png"
+},
+{
+	"name":"Master Chief",
+	"description":"La peur incarnée des covenants",
+	"imageUrl":"halo.jpeg"
+},
+{
+	"name":"Ethan Winters",
+	"description":"L'homme malchanceux de Resident Evil",
+	"imageUrl":"ethan.jpeg"
+},
+{
+	"name":"Solid Snake",
+	"description":"L'agent secret contre Metal Gear",
+	"imageUrl":"solidSnake.webp"
+},
+{
+	"name":"Kratos",
+	"description":"Le papa contre les dieux qui voulait protéger son fils",
+	"imageUrl":"kratos.png"
+},
+{
+	"name":"Aloy",
+	"description":"L'héroine à l'arc contre les mécas",
+	"imageUrl":"aloy.webp"
+}
+]
